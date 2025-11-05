@@ -1,0 +1,5 @@
+{
+  "name": "SpendSense",
+  "description": "SpendSense is a smart personal finance and expense management app designed to simplify money tracking. It helps users record income and expenses, set budgets, and visualize their financial health through intuitive charts and summaries, with AI-powered assistance for easy transaction entry.",
+  "requestFramePermissions": []
+}

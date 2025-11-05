@@ -1,0 +1,17 @@
+{
+  "short_name": "SpendSense",
+  "name": "SpendSense - AI Expense Tracker",
+  "description": "SpendSense is a smart personal finance and expense management app designed to simplify money tracking.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#1a1a1a"
+}
